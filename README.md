@@ -117,3 +117,6 @@ Gerenciamento de Memória e Modificadores 🗄️
 51. abstract: Modificador que indica que uma classe ou método é abstrato.
 
 52. synchronized: Modificador que é usado para controlar o acesso concorrente a um método ou bloco de código.
+
+
+Sebastião Pedro - Dev Full Stack
